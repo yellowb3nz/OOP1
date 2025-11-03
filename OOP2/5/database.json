@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "danya",
+        "login": "danya",
+        "password": "qwerty",
+        "email": "danya@pochta.ru",
+        "address": null
+    },
+    {
+        "id": 2,
+        "name": "oleg",
+        "login": "oleg",
+        "password": "12345",
+        "email": null,
+        "address": "pravdinsk"
+    }
+]
